@@ -1,0 +1,202 @@
+C:\Users\laris\OneDrive\Imagens\Documentos\LP2\ProjetoExtensao_2semestre\ProjetoExtensao\bin\Debug\ProjetoExtensao.exe.config
+C:\Users\laris\OneDrive\Imagens\Documentos\LP2\ProjetoExtensao_2semestre\ProjetoExtensao\bin\Debug\ProjetoExtensao.exe
+C:\Users\laris\OneDrive\Imagens\Documentos\LP2\ProjetoExtensao_2semestre\ProjetoExtensao\bin\Debug\ProjetoExtensao.pdb
+C:\Users\laris\OneDrive\Imagens\Documentos\LP2\ProjetoExtensao_2semestre\ProjetoExtensao\obj\Debug\ProjetoExtensao.csproj.AssemblyReference.cache
+C:\Users\laris\OneDrive\Imagens\Documentos\LP2\ProjetoExtensao_2semestre\ProjetoExtensao\obj\Debug\ProjetoExtensao.Properties.Resources.resources
+C:\Users\laris\OneDrive\Imagens\Documentos\LP2\ProjetoExtensao_2semestre\ProjetoExtensao\obj\Debug\ProjetoExtensao.csproj.GenerateResource.cache
+C:\Users\laris\OneDrive\Imagens\Documentos\LP2\ProjetoExtensao_2semestre\ProjetoExtensao\obj\Debug\ProjetoExtensao.csproj.CoreCompileInputs.cache
+C:\Users\laris\OneDrive\Imagens\Documentos\LP2\ProjetoExtensao_2semestre\ProjetoExtensao\obj\Debug\ProjetoExtensao.exe
+C:\Users\laris\OneDrive\Imagens\Documentos\LP2\ProjetoExtensao_2semestre\ProjetoExtensao\obj\Debug\ProjetoExtensao.pdb
+C:\Users\laris\OneDrive\Imagens\Documentos\LP2\ProjetoExtensao_2semestre\ProjetoExtensao\obj\Debug\ProjetoExtensao.exe.config
+C:\Users\laris\OneDrive\Imagens\Documentos\LP2\ProjetoExtensao_2semestre\ProjetoExtensao\obj\Debug\ProjetoExtensao.FrmPrincipal_Menu.resources
+C:\Users\laris\OneDrive\Imagens\Documentos\LP2\ProjetoExtensao_2semestre\ProjetoExtensao\obj\Debug\ProjetoExtensao.FrmCadastrar.resources
+C:\Users\laris\OneDrive\Imagens\Documentos\LP2\ProjetoExtensao_2semestre\ProjetoExtensao\obj\Debug\ProjetoExtensao.FrmCadHorario.resources
+C:\Users\laris\OneDrive\Imagens\Documentos\LP2\ProjetoExtensao_2semestre\ProjetoExtensao\obj\Debug\ProjetoExtensao.FrmCadServico.resources
+C:\Users\laris\OneDrive\Imagens\Documentos\LP2\ProjetoExtensao_2semestre\ProjetoExtensao\obj\Debug\ProjetoExtensao.FrmCadFuncionario.resources
+C:\Users\laris\OneDrive\Imagens\Documentos\LP2\ProjetoExtensao_2semestre\ProjetoExtensao\obj\Debug\ProjetoExtensao.FrmCadEscolhaCompra.resources
+C:\Users\laris\OneDrive\Imagens\Documentos\LP2\ProjetoExtensao_2semestre\ProjetoExtensao\obj\Debug\ProjetoExtensao.FrmCadProduto.resources
+C:\Users\laris\OneDrive\Imagens\Documentos\LP2\ProjetoExtensao_2semestre\ProjetoExtensao\obj\Debug\ProjetoExtensao.FrmEditar.resources
+C:\Users\laris\OneDrive\Imagens\Documentos\LP2\ProjetoExtensao_2semestre\ProjetoExtensao\obj\Debug\ProjetoExtensao.FrmEditarEncontrado.resources
+C:\Users\laris\OneDrive\Imagens\Documentos\LP2\ProjetoExtensao_2semestre\ProjetoExtensao\obj\Debug\ProjetoExtensao.FrmEdiCorte.resources
+C:\Users\laris\OneDrive\Imagens\Documentos\LP2\ProjetoExtensao_2semestre\ProjetoExtensao\obj\Debug\ProjetoExtensao.FrmEdiCompra.resources
+C:\Users\laris\OneDrive\Imagens\Documentos\LP2\ProjetoExtensao_2semestre\ProjetoExtensao\obj\Debug\ProjetoExtensao.FrmEdiCPF.resources
+C:\Users\laris\OneDrive\Imagens\Documentos\LP2\ProjetoExtensao_2semestre\ProjetoExtensao\obj\Debug\ProjetoExtensao.FrmEdiEscComp.resources
+C:\Users\laris\OneDrive\Imagens\Documentos\LP2\ProjetoExtensao_2semestre\ProjetoExtensao\obj\Debug\ProjetoExtensao.FrmEdiFunc.resources
+C:\Users\laris\OneDrive\Imagens\Documentos\LP2\ProjetoExtensao_2semestre\ProjetoExtensao\obj\Debug\ProjetoExtensao.FrmEdiHor.resources
+C:\Users\laris\OneDrive\Imagens\Documentos\LP2\ProjetoExtensao_2semestre\ProjetoExtensao\obj\Debug\ProjetoExtensao.FrmEdiNome.resources
+C:\Users\laris\OneDrive\Imagens\Documentos\LP2\ProjetoExtensao_2semestre\ProjetoExtensao\obj\Debug\ProjetoExtensao.FrmEdiTel.resources
+C:\Users\laris\OneDrive\Imagens\Documentos\LP2\ProjetoExtensao_2semestre\ProjetoExtensao\obj\Debug\ProjetoExtensao.FrmEncPesq.resources
+C:\Users\laris\OneDrive\Imagens\Documentos\LP2\ProjetoExtensao_2semestre\ProjetoExtensao\obj\Debug\ProjetoExtensao.FrmPesquisar.resources
+C:\Users\laris\OneDrive\Imagens\Documentos\LP2\ProjetoExtensao_2semestre\ProjetoExtensao\obj\Debug\ProjetoExtensao.FrmRelatorio.resources
+C:\Users\laris\OneDrive\Imagens\Documentos\LP2\ProjetoExtensao_2semestre\ProjetoExtensao\obj\Debug\ProjetoExtensao.FrmEncRemover.resources
+C:\Users\laris\OneDrive\Imagens\Documentos\LP2\ProjetoExtensao_2semestre\ProjetoExtensao\obj\Debug\ProjetoExtensao.FrmRemover.resources
+C:\Users\ISABELA NITTA\Downloads\ProjetoExtensao_2sem\ProjetoExtensao_2semestre\ProjetoExtensao\bin\Debug\ProjetoExtensao.exe.config
+C:\Users\ISABELA NITTA\Downloads\ProjetoExtensao_2sem\ProjetoExtensao_2semestre\ProjetoExtensao\bin\Debug\ProjetoExtensao.exe
+C:\Users\ISABELA NITTA\Downloads\ProjetoExtensao_2sem\ProjetoExtensao_2semestre\ProjetoExtensao\bin\Debug\ProjetoExtensao.pdb
+C:\Users\ISABELA NITTA\Downloads\ProjetoExtensao_2sem\ProjetoExtensao_2semestre\ProjetoExtensao\obj\Debug\ProjetoExtensao.csproj.AssemblyReference.cache
+C:\Users\ISABELA NITTA\Downloads\ProjetoExtensao_2sem\ProjetoExtensao_2semestre\ProjetoExtensao\obj\Debug\ProjetoExtensao.exe.config
+C:\Users\ISABELA NITTA\Downloads\ProjetoExtensao_2sem\ProjetoExtensao_2semestre\ProjetoExtensao\obj\Debug\ProjetoExtensao.FrmCadEscolhaCompra.resources
+C:\Users\ISABELA NITTA\Downloads\ProjetoExtensao_2sem\ProjetoExtensao_2semestre\ProjetoExtensao\obj\Debug\ProjetoExtensao.FrmCadProduto.resources
+C:\Users\ISABELA NITTA\Downloads\ProjetoExtensao_2sem\ProjetoExtensao_2semestre\ProjetoExtensao\obj\Debug\ProjetoExtensao.FrmEdiCorte.resources
+C:\Users\ISABELA NITTA\Downloads\ProjetoExtensao_2sem\ProjetoExtensao_2semestre\ProjetoExtensao\obj\Debug\ProjetoExtensao.FrmEdiCompra.resources
+C:\Users\ISABELA NITTA\Downloads\ProjetoExtensao_2sem\ProjetoExtensao_2semestre\ProjetoExtensao\obj\Debug\ProjetoExtensao.FrmEdiCPF.resources
+C:\Users\ISABELA NITTA\Downloads\ProjetoExtensao_2sem\ProjetoExtensao_2semestre\ProjetoExtensao\obj\Debug\ProjetoExtensao.FrmEdiEscComp.resources
+C:\Users\ISABELA NITTA\Downloads\ProjetoExtensao_2sem\ProjetoExtensao_2semestre\ProjetoExtensao\obj\Debug\ProjetoExtensao.FrmEdiFunc.resources
+C:\Users\ISABELA NITTA\Downloads\ProjetoExtensao_2sem\ProjetoExtensao_2semestre\ProjetoExtensao\obj\Debug\ProjetoExtensao.FrmEdiHor.resources
+C:\Users\ISABELA NITTA\Downloads\ProjetoExtensao_2sem\ProjetoExtensao_2semestre\ProjetoExtensao\obj\Debug\ProjetoExtensao.FrmEdiNome.resources
+C:\Users\ISABELA NITTA\Downloads\ProjetoExtensao_2sem\ProjetoExtensao_2semestre\ProjetoExtensao\obj\Debug\ProjetoExtensao.FrmEditar.resources
+C:\Users\ISABELA NITTA\Downloads\ProjetoExtensao_2sem\ProjetoExtensao_2semestre\ProjetoExtensao\obj\Debug\ProjetoExtensao.FrmEditarEncontrado.resources
+C:\Users\ISABELA NITTA\Downloads\ProjetoExtensao_2sem\ProjetoExtensao_2semestre\ProjetoExtensao\obj\Debug\ProjetoExtensao.FrmEdiTel.resources
+C:\Users\ISABELA NITTA\Downloads\ProjetoExtensao_2sem\ProjetoExtensao_2semestre\ProjetoExtensao\obj\Debug\ProjetoExtensao.FrmEncPesq.resources
+C:\Users\ISABELA NITTA\Downloads\ProjetoExtensao_2sem\ProjetoExtensao_2semestre\ProjetoExtensao\obj\Debug\ProjetoExtensao.FrmEncRemover.resources
+C:\Users\ISABELA NITTA\Downloads\ProjetoExtensao_2sem\ProjetoExtensao_2semestre\ProjetoExtensao\obj\Debug\ProjetoExtensao.FrmPesquisar.resources
+C:\Users\ISABELA NITTA\Downloads\ProjetoExtensao_2sem\ProjetoExtensao_2semestre\ProjetoExtensao\obj\Debug\ProjetoExtensao.FrmRelatorio.resources
+C:\Users\ISABELA NITTA\Downloads\ProjetoExtensao_2sem\ProjetoExtensao_2semestre\ProjetoExtensao\obj\Debug\ProjetoExtensao.FrmRemover.resources
+C:\Users\ISABELA NITTA\Downloads\ProjetoExtensao_2sem\ProjetoExtensao_2semestre\ProjetoExtensao\obj\Debug\ProjetoExtensao.FrmPrincipal_Menu.resources
+C:\Users\ISABELA NITTA\Downloads\ProjetoExtensao_2sem\ProjetoExtensao_2semestre\ProjetoExtensao\obj\Debug\ProjetoExtensao.Properties.Resources.resources
+C:\Users\ISABELA NITTA\Downloads\ProjetoExtensao_2sem\ProjetoExtensao_2semestre\ProjetoExtensao\obj\Debug\ProjetoExtensao.csproj.GenerateResource.cache
+C:\Users\ISABELA NITTA\Downloads\ProjetoExtensao_2sem\ProjetoExtensao_2semestre\ProjetoExtensao\obj\Debug\ProjetoExtensao.csproj.CoreCompileInputs.cache
+C:\Users\ISABELA NITTA\Downloads\ProjetoExtensao_2sem\ProjetoExtensao_2semestre\ProjetoExtensao\obj\Debug\ProjetoExtensao.exe
+C:\Users\ISABELA NITTA\Downloads\ProjetoExtensao_2sem\ProjetoExtensao_2semestre\ProjetoExtensao\obj\Debug\ProjetoExtensao.pdb
+C:\Users\ISABELA NITTA\Downloads\ProjetoExtensao_2sem\ProjetoExtensao_2semestre\ProjetoExtensao\obj\Debug\ProjetoExtensao.FrmTipoCadastro.resources
+C:\Users\ISABELA NITTA\Downloads\ProjetoExtensao_2sem\ProjetoExtensao_2semestre\ProjetoExtensao\obj\Debug\ProjetoExtensao.FrmCadCliente.resources
+C:\Users\ISABELA NITTA\Downloads\ProjetoExtensao_2sem\ProjetoExtensao_2semestre\ProjetoExtensao\obj\Debug\ProjetoExtensao.FrmCadFuncionario.resources
+C:\Users\ISABELA NITTA\Downloads\ProjetoExtensao_2sem\ProjetoExtensao_2semestre\ProjetoExtensao\obj\Debug\ProjetoExtensao.FrmCadCompras.resources
+C:\Users\famila\Desktop\ProjetoExtensao_2semestre\ProjetoExtensao\bin\Debug\ProjetoExtensao.exe.config
+C:\Users\famila\Desktop\ProjetoExtensao_2semestre\ProjetoExtensao\bin\Debug\ProjetoExtensao.exe
+C:\Users\famila\Desktop\ProjetoExtensao_2semestre\ProjetoExtensao\bin\Debug\ProjetoExtensao.pdb
+C:\Users\famila\Desktop\ProjetoExtensao_2semestre\ProjetoExtensao\obj\Debug\ProjetoExtensao.csproj.AssemblyReference.cache
+C:\Users\famila\Desktop\ProjetoExtensao_2semestre\ProjetoExtensao\obj\Debug\ProjetoExtensao.exe.config
+C:\Users\famila\Desktop\ProjetoExtensao_2semestre\ProjetoExtensao\obj\Debug\ProjetoExtensao.FrmCadFuncionario.resources
+C:\Users\famila\Desktop\ProjetoExtensao_2semestre\ProjetoExtensao\obj\Debug\ProjetoExtensao.FrmCadProduto.resources
+C:\Users\famila\Desktop\ProjetoExtensao_2semestre\ProjetoExtensao\obj\Debug\ProjetoExtensao.FrmTipoCadastro.resources
+C:\Users\famila\Desktop\ProjetoExtensao_2semestre\ProjetoExtensao\obj\Debug\ProjetoExtensao.FrmCadCliente.resources
+C:\Users\famila\Desktop\ProjetoExtensao_2semestre\ProjetoExtensao\obj\Debug\ProjetoExtensao.FrmCadEscolhaCompra.resources
+C:\Users\famila\Desktop\ProjetoExtensao_2semestre\ProjetoExtensao\obj\Debug\ProjetoExtensao.FrmCadCompras.resources
+C:\Users\famila\Desktop\ProjetoExtensao_2semestre\ProjetoExtensao\obj\Debug\ProjetoExtensao.FrmEdiCorte.resources
+C:\Users\famila\Desktop\ProjetoExtensao_2semestre\ProjetoExtensao\obj\Debug\ProjetoExtensao.FrmEdiCompra.resources
+C:\Users\famila\Desktop\ProjetoExtensao_2semestre\ProjetoExtensao\obj\Debug\ProjetoExtensao.FrmEdiCPF.resources
+C:\Users\famila\Desktop\ProjetoExtensao_2semestre\ProjetoExtensao\obj\Debug\ProjetoExtensao.FrmEdiEscComp.resources
+C:\Users\famila\Desktop\ProjetoExtensao_2semestre\ProjetoExtensao\obj\Debug\ProjetoExtensao.FrmEdiFunc.resources
+C:\Users\famila\Desktop\ProjetoExtensao_2semestre\ProjetoExtensao\obj\Debug\ProjetoExtensao.FrmEdiHor.resources
+C:\Users\famila\Desktop\ProjetoExtensao_2semestre\ProjetoExtensao\obj\Debug\ProjetoExtensao.FrmEdiNome.resources
+C:\Users\famila\Desktop\ProjetoExtensao_2semestre\ProjetoExtensao\obj\Debug\ProjetoExtensao.FrmEditar.resources
+C:\Users\famila\Desktop\ProjetoExtensao_2semestre\ProjetoExtensao\obj\Debug\ProjetoExtensao.FrmEditarEncontrado.resources
+C:\Users\famila\Desktop\ProjetoExtensao_2semestre\ProjetoExtensao\obj\Debug\ProjetoExtensao.FrmEdiTel.resources
+C:\Users\famila\Desktop\ProjetoExtensao_2semestre\ProjetoExtensao\obj\Debug\ProjetoExtensao.FrmEncPesq.resources
+C:\Users\famila\Desktop\ProjetoExtensao_2semestre\ProjetoExtensao\obj\Debug\ProjetoExtensao.FrmEncRemover.resources
+C:\Users\famila\Desktop\ProjetoExtensao_2semestre\ProjetoExtensao\obj\Debug\ProjetoExtensao.FrmPesquisar.resources
+C:\Users\famila\Desktop\ProjetoExtensao_2semestre\ProjetoExtensao\obj\Debug\ProjetoExtensao.FrmRelatorio.resources
+C:\Users\famila\Desktop\ProjetoExtensao_2semestre\ProjetoExtensao\obj\Debug\ProjetoExtensao.FrmRemover.resources
+C:\Users\famila\Desktop\ProjetoExtensao_2semestre\ProjetoExtensao\obj\Debug\ProjetoExtensao.FrmPrincipal_Menu.resources
+C:\Users\famila\Desktop\ProjetoExtensao_2semestre\ProjetoExtensao\obj\Debug\ProjetoExtensao.Properties.Resources.resources
+C:\Users\famila\Desktop\ProjetoExtensao_2semestre\ProjetoExtensao\obj\Debug\ProjetoExtensao.csproj.GenerateResource.cache
+C:\Users\famila\Desktop\ProjetoExtensao_2semestre\ProjetoExtensao\obj\Debug\ProjetoExtensao.csproj.CoreCompileInputs.cache
+C:\Users\famila\Desktop\ProjetoExtensao_2semestre\ProjetoExtensao\obj\Debug\ProjetoExtensao.exe
+C:\Users\famila\Desktop\ProjetoExtensao_2semestre\ProjetoExtensao\obj\Debug\ProjetoExtensao.pdb
+C:\Users\famila\Desktop\ProjetoExtensao_2semestre\ProjetoExtensao\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\famila\Desktop\ProjetoExtensao_2semestre\ProjetoExtensao\bin\Debug\Google.Protobuf.dll
+C:\Users\famila\Desktop\ProjetoExtensao_2semestre\ProjetoExtensao\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\famila\Desktop\ProjetoExtensao_2semestre\ProjetoExtensao\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\famila\Desktop\ProjetoExtensao_2semestre\ProjetoExtensao\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\famila\Desktop\ProjetoExtensao_2semestre\ProjetoExtensao\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\famila\Desktop\ProjetoExtensao_2semestre\ProjetoExtensao\bin\Debug\MySql.Data.dll
+C:\Users\famila\Desktop\ProjetoExtensao_2semestre\ProjetoExtensao\bin\Debug\System.Buffers.dll
+C:\Users\famila\Desktop\ProjetoExtensao_2semestre\ProjetoExtensao\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\famila\Desktop\ProjetoExtensao_2semestre\ProjetoExtensao\bin\Debug\System.IO.Pipelines.dll
+C:\Users\famila\Desktop\ProjetoExtensao_2semestre\ProjetoExtensao\bin\Debug\System.Memory.dll
+C:\Users\famila\Desktop\ProjetoExtensao_2semestre\ProjetoExtensao\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\famila\Desktop\ProjetoExtensao_2semestre\ProjetoExtensao\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\famila\Desktop\ProjetoExtensao_2semestre\ProjetoExtensao\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\famila\Desktop\ProjetoExtensao_2semestre\ProjetoExtensao\bin\Debug\ZstdSharp.dll
+C:\Users\famila\Desktop\ProjetoExtensao_2semestre\ProjetoExtensao\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\famila\Desktop\ProjetoExtensao_2semestre\ProjetoExtensao\bin\Debug\Google.Protobuf.pdb
+C:\Users\famila\Desktop\ProjetoExtensao_2semestre\ProjetoExtensao\bin\Debug\Google.Protobuf.xml
+C:\Users\famila\Desktop\ProjetoExtensao_2semestre\ProjetoExtensao\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\famila\Desktop\ProjetoExtensao_2semestre\ProjetoExtensao\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\famila\Desktop\ProjetoExtensao_2semestre\ProjetoExtensao\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\famila\Desktop\ProjetoExtensao_2semestre\ProjetoExtensao\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\famila\Desktop\ProjetoExtensao_2semestre\ProjetoExtensao\bin\Debug\MySql.Data.xml
+C:\Users\famila\Desktop\ProjetoExtensao_2semestre\ProjetoExtensao\bin\Debug\System.Buffers.xml
+C:\Users\famila\Desktop\ProjetoExtensao_2semestre\ProjetoExtensao\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\famila\Desktop\ProjetoExtensao_2semestre\ProjetoExtensao\bin\Debug\System.IO.Pipelines.xml
+C:\Users\famila\Desktop\ProjetoExtensao_2semestre\ProjetoExtensao\bin\Debug\System.Memory.xml
+C:\Users\famila\Desktop\ProjetoExtensao_2semestre\ProjetoExtensao\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\famila\Desktop\ProjetoExtensao_2semestre\ProjetoExtensao\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\famila\Desktop\ProjetoExtensao_2semestre\ProjetoExtensao\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\famila\Desktop\ProjetoExtensao_2semestre\ProjetoExtensao\obj\Debug\ProjetoE.E54E0A86.Up2Date
+C:\Users\famila\Desktop\ProjetoExtensao_2semestre\ProjetoExtensao\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\famila\Desktop\ProjetoExtensao_2semestre\ProjetoExtensao\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\famila\Desktop\ProjetoExtensao_2semestre\ProjetoExtensao\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\famila\Desktop\ProjetoExtensao_2semestre\ProjetoExtensao\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\famila\Desktop\ProjetoExtensao_2semestre\ProjetoExtensao\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\famila\Desktop\ProjetoExtensao_2semestre\ProjetoExtensao\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\famila\Desktop\ProjetoExtensao_2sem1\ProjetoExtensao_2semestre\ProjetoExtensao\bin\Debug\ProjetoExtensao.exe.config
+C:\Users\famila\Desktop\ProjetoExtensao_2sem1\ProjetoExtensao_2semestre\ProjetoExtensao\bin\Debug\ProjetoExtensao.exe
+C:\Users\famila\Desktop\ProjetoExtensao_2sem1\ProjetoExtensao_2semestre\ProjetoExtensao\bin\Debug\ProjetoExtensao.pdb
+C:\Users\famila\Desktop\ProjetoExtensao_2sem1\ProjetoExtensao_2semestre\ProjetoExtensao\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\famila\Desktop\ProjetoExtensao_2sem1\ProjetoExtensao_2semestre\ProjetoExtensao\bin\Debug\Google.Protobuf.dll
+C:\Users\famila\Desktop\ProjetoExtensao_2sem1\ProjetoExtensao_2semestre\ProjetoExtensao\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\famila\Desktop\ProjetoExtensao_2sem1\ProjetoExtensao_2semestre\ProjetoExtensao\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\famila\Desktop\ProjetoExtensao_2sem1\ProjetoExtensao_2semestre\ProjetoExtensao\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\famila\Desktop\ProjetoExtensao_2sem1\ProjetoExtensao_2semestre\ProjetoExtensao\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\famila\Desktop\ProjetoExtensao_2sem1\ProjetoExtensao_2semestre\ProjetoExtensao\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\famila\Desktop\ProjetoExtensao_2sem1\ProjetoExtensao_2semestre\ProjetoExtensao\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\famila\Desktop\ProjetoExtensao_2sem1\ProjetoExtensao_2semestre\ProjetoExtensao\bin\Debug\MySql.Data.dll
+C:\Users\famila\Desktop\ProjetoExtensao_2sem1\ProjetoExtensao_2semestre\ProjetoExtensao\bin\Debug\System.Buffers.dll
+C:\Users\famila\Desktop\ProjetoExtensao_2sem1\ProjetoExtensao_2semestre\ProjetoExtensao\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\famila\Desktop\ProjetoExtensao_2sem1\ProjetoExtensao_2semestre\ProjetoExtensao\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\famila\Desktop\ProjetoExtensao_2sem1\ProjetoExtensao_2semestre\ProjetoExtensao\bin\Debug\System.IO.Pipelines.dll
+C:\Users\famila\Desktop\ProjetoExtensao_2sem1\ProjetoExtensao_2semestre\ProjetoExtensao\bin\Debug\System.Memory.dll
+C:\Users\famila\Desktop\ProjetoExtensao_2sem1\ProjetoExtensao_2semestre\ProjetoExtensao\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\famila\Desktop\ProjetoExtensao_2sem1\ProjetoExtensao_2semestre\ProjetoExtensao\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\famila\Desktop\ProjetoExtensao_2sem1\ProjetoExtensao_2semestre\ProjetoExtensao\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\famila\Desktop\ProjetoExtensao_2sem1\ProjetoExtensao_2semestre\ProjetoExtensao\bin\Debug\ZstdSharp.dll
+C:\Users\famila\Desktop\ProjetoExtensao_2sem1\ProjetoExtensao_2semestre\ProjetoExtensao\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\famila\Desktop\ProjetoExtensao_2sem1\ProjetoExtensao_2semestre\ProjetoExtensao\bin\Debug\Google.Protobuf.pdb
+C:\Users\famila\Desktop\ProjetoExtensao_2sem1\ProjetoExtensao_2semestre\ProjetoExtensao\bin\Debug\Google.Protobuf.xml
+C:\Users\famila\Desktop\ProjetoExtensao_2sem1\ProjetoExtensao_2semestre\ProjetoExtensao\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\famila\Desktop\ProjetoExtensao_2sem1\ProjetoExtensao_2semestre\ProjetoExtensao\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\famila\Desktop\ProjetoExtensao_2sem1\ProjetoExtensao_2semestre\ProjetoExtensao\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\famila\Desktop\ProjetoExtensao_2sem1\ProjetoExtensao_2semestre\ProjetoExtensao\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\famila\Desktop\ProjetoExtensao_2sem1\ProjetoExtensao_2semestre\ProjetoExtensao\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\famila\Desktop\ProjetoExtensao_2sem1\ProjetoExtensao_2semestre\ProjetoExtensao\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\famila\Desktop\ProjetoExtensao_2sem1\ProjetoExtensao_2semestre\ProjetoExtensao\bin\Debug\MySql.Data.xml
+C:\Users\famila\Desktop\ProjetoExtensao_2sem1\ProjetoExtensao_2semestre\ProjetoExtensao\bin\Debug\System.Buffers.xml
+C:\Users\famila\Desktop\ProjetoExtensao_2sem1\ProjetoExtensao_2semestre\ProjetoExtensao\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\famila\Desktop\ProjetoExtensao_2sem1\ProjetoExtensao_2semestre\ProjetoExtensao\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\famila\Desktop\ProjetoExtensao_2sem1\ProjetoExtensao_2semestre\ProjetoExtensao\bin\Debug\System.IO.Pipelines.xml
+C:\Users\famila\Desktop\ProjetoExtensao_2sem1\ProjetoExtensao_2semestre\ProjetoExtensao\bin\Debug\System.Memory.xml
+C:\Users\famila\Desktop\ProjetoExtensao_2sem1\ProjetoExtensao_2semestre\ProjetoExtensao\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\famila\Desktop\ProjetoExtensao_2sem1\ProjetoExtensao_2semestre\ProjetoExtensao\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\famila\Desktop\ProjetoExtensao_2sem1\ProjetoExtensao_2semestre\ProjetoExtensao\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\famila\Desktop\ProjetoExtensao_2sem1\ProjetoExtensao_2semestre\ProjetoExtensao\obj\Debug\ProjetoExtensao.csproj.AssemblyReference.cache
+C:\Users\famila\Desktop\ProjetoExtensao_2sem1\ProjetoExtensao_2semestre\ProjetoExtensao\obj\Debug\ProjetoExtensao.exe.config
+C:\Users\famila\Desktop\ProjetoExtensao_2sem1\ProjetoExtensao_2semestre\ProjetoExtensao\obj\Debug\ProjetoExtensao.FrmCadFuncionario.resources
+C:\Users\famila\Desktop\ProjetoExtensao_2sem1\ProjetoExtensao_2semestre\ProjetoExtensao\obj\Debug\ProjetoExtensao.FrmCadProduto.resources
+C:\Users\famila\Desktop\ProjetoExtensao_2sem1\ProjetoExtensao_2semestre\ProjetoExtensao\obj\Debug\ProjetoExtensao.FrmTipoCadastro.resources
+C:\Users\famila\Desktop\ProjetoExtensao_2sem1\ProjetoExtensao_2semestre\ProjetoExtensao\obj\Debug\ProjetoExtensao.FrmCadCliente.resources
+C:\Users\famila\Desktop\ProjetoExtensao_2sem1\ProjetoExtensao_2semestre\ProjetoExtensao\obj\Debug\ProjetoExtensao.FrmCadEscolhaCompra.resources
+C:\Users\famila\Desktop\ProjetoExtensao_2sem1\ProjetoExtensao_2semestre\ProjetoExtensao\obj\Debug\ProjetoExtensao.FrmCadCompras.resources
+C:\Users\famila\Desktop\ProjetoExtensao_2sem1\ProjetoExtensao_2semestre\ProjetoExtensao\obj\Debug\ProjetoExtensao.FrmEdiCorte.resources
+C:\Users\famila\Desktop\ProjetoExtensao_2sem1\ProjetoExtensao_2semestre\ProjetoExtensao\obj\Debug\ProjetoExtensao.FrmEdiCompra.resources
+C:\Users\famila\Desktop\ProjetoExtensao_2sem1\ProjetoExtensao_2semestre\ProjetoExtensao\obj\Debug\ProjetoExtensao.FrmEdiCPF.resources
+C:\Users\famila\Desktop\ProjetoExtensao_2sem1\ProjetoExtensao_2semestre\ProjetoExtensao\obj\Debug\ProjetoExtensao.FrmEdiEscComp.resources
+C:\Users\famila\Desktop\ProjetoExtensao_2sem1\ProjetoExtensao_2semestre\ProjetoExtensao\obj\Debug\ProjetoExtensao.FrmEdiFunc.resources
+C:\Users\famila\Desktop\ProjetoExtensao_2sem1\ProjetoExtensao_2semestre\ProjetoExtensao\obj\Debug\ProjetoExtensao.FrmEdiHor.resources
+C:\Users\famila\Desktop\ProjetoExtensao_2sem1\ProjetoExtensao_2semestre\ProjetoExtensao\obj\Debug\ProjetoExtensao.FrmEdiNome.resources
+C:\Users\famila\Desktop\ProjetoExtensao_2sem1\ProjetoExtensao_2semestre\ProjetoExtensao\obj\Debug\ProjetoExtensao.FrmEditar.resources
+C:\Users\famila\Desktop\ProjetoExtensao_2sem1\ProjetoExtensao_2semestre\ProjetoExtensao\obj\Debug\ProjetoExtensao.FrmEditarEncontrado.resources
+C:\Users\famila\Desktop\ProjetoExtensao_2sem1\ProjetoExtensao_2semestre\ProjetoExtensao\obj\Debug\ProjetoExtensao.FrmEdiTel.resources
+C:\Users\famila\Desktop\ProjetoExtensao_2sem1\ProjetoExtensao_2semestre\ProjetoExtensao\obj\Debug\ProjetoExtensao.FrmEncPesq.resources
+C:\Users\famila\Desktop\ProjetoExtensao_2sem1\ProjetoExtensao_2semestre\ProjetoExtensao\obj\Debug\ProjetoExtensao.FrmEncRemover.resources
+C:\Users\famila\Desktop\ProjetoExtensao_2sem1\ProjetoExtensao_2semestre\ProjetoExtensao\obj\Debug\ProjetoExtensao.FrmPesquisar.resources
+C:\Users\famila\Desktop\ProjetoExtensao_2sem1\ProjetoExtensao_2semestre\ProjetoExtensao\obj\Debug\ProjetoExtensao.FrmRelatorio.resources
+C:\Users\famila\Desktop\ProjetoExtensao_2sem1\ProjetoExtensao_2semestre\ProjetoExtensao\obj\Debug\ProjetoExtensao.FrmRemover.resources
+C:\Users\famila\Desktop\ProjetoExtensao_2sem1\ProjetoExtensao_2semestre\ProjetoExtensao\obj\Debug\ProjetoExtensao.FrmPrincipal_Menu.resources
+C:\Users\famila\Desktop\ProjetoExtensao_2sem1\ProjetoExtensao_2semestre\ProjetoExtensao\obj\Debug\ProjetoExtensao.Properties.Resources.resources
+C:\Users\famila\Desktop\ProjetoExtensao_2sem1\ProjetoExtensao_2semestre\ProjetoExtensao\obj\Debug\ProjetoExtensao.csproj.GenerateResource.cache
+C:\Users\famila\Desktop\ProjetoExtensao_2sem1\ProjetoExtensao_2semestre\ProjetoExtensao\obj\Debug\ProjetoExtensao.csproj.CoreCompileInputs.cache
+C:\Users\famila\Desktop\ProjetoExtensao_2sem1\ProjetoExtensao_2semestre\ProjetoExtensao\obj\Debug\ProjetoE.E54E0A86.Up2Date
+C:\Users\famila\Desktop\ProjetoExtensao_2sem1\ProjetoExtensao_2semestre\ProjetoExtensao\obj\Debug\ProjetoExtensao.exe
+C:\Users\famila\Desktop\ProjetoExtensao_2sem1\ProjetoExtensao_2semestre\ProjetoExtensao\obj\Debug\ProjetoExtensao.pdb
